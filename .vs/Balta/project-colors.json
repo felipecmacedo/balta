@@ -5,7 +5,12 @@
       "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
       "DisplayName": "Arquivos Diversos",
       "ColorIndex": -1
+    },
+    "a168ea1d-5f4e-47dd-aafd-239df806f7e5": {
+      "ProjectGuid": "a168ea1d-5f4e-47dd-aafd-239df806f7e5",
+      "DisplayName": "Balta",
+      "ColorIndex": 0
     }
   },
-  "NextColorIndex": 0
+  "NextColorIndex": 1
 }

@@ -7,13 +7,20 @@ namespace Balta
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.Clear();
 
-            var course = new Course();
-            var career = new Career();
+            var articles = new List<Article>();
+            articles.Add(new Article("Artigo sobre OOP", "orientacao/objetos"));
+            articles.Add(new Article("Artigo sobre C#", "csharp"));
+            articles.Add(new Article("Artigo sobre .Net", "dotnet"));
 
-            career.Items.Add(new CareerItem());
-            Console.WriteLine(career.TotalCourses);
+            foreach(var article in articles)
+            {
+                Console.WriteLine(article.Id);
+                Console.WriteLine(article.Title);
+                Console.WriteLine(article.Url);
+                Console.WriteLine("-----------");
+            }
         }
     }
 }
