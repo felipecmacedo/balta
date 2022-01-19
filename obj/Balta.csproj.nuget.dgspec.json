@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\dev\\balta\\Balta.csproj": {}
+    "C:\\Users\\Usuario\\Desktop\\balta\\Balta.csproj": {}
   },
   "projects": {
-    "C:\\dev\\balta\\Balta.csproj": {
+    "C:\\Users\\Usuario\\Desktop\\balta\\Balta.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\dev\\balta\\Balta.csproj",
+        "projectUniqueName": "C:\\Users\\Usuario\\Desktop\\balta\\Balta.csproj",
         "projectName": "Balta",
-        "projectPath": "C:\\dev\\balta\\Balta.csproj",
-        "packagesPath": "C:\\Users\\Felipe Macedo\\.nuget\\packages\\",
-        "outputPath": "C:\\dev\\balta\\obj\\",
+        "projectPath": "C:\\Users\\Usuario\\Desktop\\balta\\Balta.csproj",
+        "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Usuario\\Desktop\\balta\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "D:\\Visual Studio\\compartilhados\\NuGetPackages"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Felipe Macedo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -53,12 +53,6 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[6.0.0, 6.0.0]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"

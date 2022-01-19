@@ -6,7 +6,7 @@ namespace Balta.ContentContext
         {
             if (course == null)
             {
-                throw new Exception("O curso não pode ser nulo");
+                throw new System.Exception("O curso não pode ser nulo");
             }
             Order = order;
             Title = title;
