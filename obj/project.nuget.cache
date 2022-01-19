@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "d6B7zVaL8DdJJWjdMgfTW4/abwFDHa/po2whkluMld12YR003HpLWzjxpT+4mCJKK8r0oKYWVCwPOBB2eYnDHg==",
+  "dgSpecHash": "83bzJ/fdmQBvhGcplABUZ9+QOMVxGTSblVONt6VPfg6i9zQu8k9I5rO/e7he/Hko5wPF4sFfq6CYp6nwEoUD4A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Usuario\\Desktop\\balta\\Balta.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\dev\\balta\\Balta.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Felipe Macedo\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.0\\microsoft.aspnetcore.app.ref.6.0.0.nupkg.sha512"
+  ],
   "logs": []
 }
