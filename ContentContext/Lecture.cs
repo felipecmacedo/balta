@@ -1,8 +1,10 @@
 using Balta.ContentContext.Enums;
+using Balta.SharedContext;
+
 
 namespace Balta.ContentContext
 {
-    public class Lecture
+    public class Lecture : Base
     {
         public Lecture(string title)
         {

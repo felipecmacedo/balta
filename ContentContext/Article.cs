@@ -4,7 +4,7 @@ namespace Balta.ContentContext
     {
         public Article(string title, string url) : base(title, url)
         {
-            
+
         }
     }
 }
